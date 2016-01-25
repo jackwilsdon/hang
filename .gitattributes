@@ -1,0 +1,3 @@
+# Do not export gitattributes or gitignore files when using "git archive"
+.gitattributes export-ignore
+.gitignore export-ignore
